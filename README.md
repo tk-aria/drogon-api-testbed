@@ -1,5 +1,5 @@
-# sandbox-drogonframework
-validate drogon framework.
+# drogon-api-testbed
+test and research drogon web-framework.
 
 ## what's about drogon?
 
